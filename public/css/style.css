@@ -115,3 +115,11 @@ button:focus-visible {
 .form-button {
   grid-column: span 2;
 }
+
+.form-div {
+  padding: 3rem;
+  margin: 0 auto;
+  background: rgba(70, 70, 255, 0.3);
+  border: 1px solid white;
+  border-radius: 5px;
+}
